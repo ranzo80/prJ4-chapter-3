@@ -3,3 +3,11 @@ h3 {
 	text-decoration: underline;
 	font-size: 20px;
 }
+
+#my-id {
+	background-color:blue; font-style: italic;
+}
+
+.my-class {
+	text-align: left; margin: 10px;
+}
