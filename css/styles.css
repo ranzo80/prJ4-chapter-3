@@ -15,9 +15,11 @@ h3 {
 }
 
 .my-container {
-	Background-color: cyan;
-	border: 1px;
-	border-color: black;
+	background-color: cyan;
+	border: 8px solid #B22222;
+	border-radius: 10px;
+	margin-top: 15px;
+	margin-bottom: 15px;
 	margin-left: 10px;
 	margin-top: 10px;
 }
